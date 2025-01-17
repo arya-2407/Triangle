@@ -1,0 +1,16 @@
+1. define canvas
+2. define vertices in array
+3. a)viewport
+   b)clearcolor
+4. a)load shaders   
+   b)use program
+5. a)Define buffer
+   b)bind buffer
+   c)buffer data
+
+6. a)Define aPosition
+   b)link vertex attrib pointer
+   c)enable vertex attrib array
+7. Render
+	a) clear
+	b) draw arrays
